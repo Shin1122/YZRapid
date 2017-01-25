@@ -7,6 +7,12 @@
 //
 
 #import "AppDelegate.h"
+#import "IndexViewController.h"
+#import "Content1ViewController.h"
+#import "Content2ViewController.h"
+#import "MeViewController.h"
+
+
 
 @interface AppDelegate ()
 
@@ -14,9 +20,29 @@
 
 @implementation AppDelegate
 
-
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    
+    _window = [[UIWindow alloc]initWithFrame:[UIScreen mainScreen].bounds];
+    [_window makeKeyAndVisible];
+    _window.backgroundColor = [UIColor whiteColor];
+    
+    IndexViewController *tab1 = [[IndexViewController alloc]initWithBackgroundColor:[UIColor whiteColor] andTitle:@"主页" andTabUnselectedImage:[UIImage imageNamed:@"main_n"] andSelectedImage:[UIImage imageNamed:@"main_h"] andBadge:nil];
+    
+    Content1ViewController *tab2 = [[Content1ViewController alloc]initWithBackgroundColor:[UIColor whiteColor] andTitle:@"内容1" andTabUnselectedImage:[UIImage imageNamed:@"content_n"] andSelectedImage:[UIImage imageNamed:@"content_h"] andBadge:nil];
+    
+    Content2ViewController *tab3 = [[Content2ViewController alloc]initWithBackgroundColor:[UIColor whiteColor] andTitle:@"内容2" andTabUnselectedImage:[UIImage imageNamed:@"like_n"] andSelectedImage:[UIImage imageNamed:@"like_h"] andBadge:nil];
+    
+    MeViewController *tab4 = [[MeViewController alloc]initWithBackgroundColor:[UIColor whiteColor] andTitle:@"个人" andTabUnselectedImage:[UIImage imageNamed:@"me_n"] andSelectedImage:[UIImage imageNamed:@"me_h"] andBadge:nil];
+    
+    UINavigationController *nav1 = [[UINavigationController alloc]initWithRootViewController:tab1];
+    UINavigationController *nav2 = [[UINavigationController alloc]initWithRootViewController:tab2];
+    UINavigationController *nav3 = [[UINavigationController alloc]initWithRootViewController:tab3];
+    UINavigationController *nav4 = [[UINavigationController alloc]initWithRootViewController:tab4];
+    
+    _viewController = [[ViewController alloc]initWithItemUnselectedColor:[UIColor colorWithRed:0.54 green:0.54 blue:0.54 alpha:1.0] andSelectedColor:[UIColor colorWithRed:0.81 green:0.04 blue:0.09 alpha:1.0]];
+    _viewController.viewControllers = @[nav1,nav2,nav3,nav4];
+    [_window setRootViewController:_viewController];
+    
     return YES;
 }
 

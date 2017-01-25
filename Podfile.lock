@@ -1,0 +1,18 @@
+PODS:
+  - FDFullscreenPopGesture (1.1)
+  - LCTabBarController (1.3.5)
+  - SDAutoLayout (2.1.7)
+
+DEPENDENCIES:
+  - FDFullscreenPopGesture (~> 1.1)
+  - LCTabBarController (~> 1.3.5)
+  - SDAutoLayout (~> 2.1.7)
+
+SPEC CHECKSUMS:
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  LCTabBarController: 6d22654fd3d7e476428536bed5faf87d714035cf
+  SDAutoLayout: e9b36d04b8c0b504762a04d76fbbe5108944297a
+
+PODFILE CHECKSUM: 1cd9349df7cf008e73ed071d957f7c5e5e1d1c96
+
+COCOAPODS: 1.1.1

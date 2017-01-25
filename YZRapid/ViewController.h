@@ -7,8 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "LCTabBarController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : LCTabBarController
+
+-(instancetype)initWithItemUnselectedColor:(UIColor *)unselectedColor andSelectedColor:(UIColor *)selectedColor;
 
 
 @end

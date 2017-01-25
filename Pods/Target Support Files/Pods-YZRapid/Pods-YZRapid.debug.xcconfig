@@ -1,9 +1,9 @@
 ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO
+FRAMEWORK_SEARCH_PATHS = $(inherited) "$PODS_CONFIGURATION_BUILD_DIR/FDFullscreenPopGesture" "$PODS_CONFIGURATION_BUILD_DIR/LCTabBarController" "$PODS_CONFIGURATION_BUILD_DIR/SDAutoLayout"
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
-HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/FDFullscreenPopGesture" "${PODS_ROOT}/Headers/Public/LCTabBarController" "${PODS_ROOT}/Headers/Public/SDAutoLayout"
-LIBRARY_SEARCH_PATHS = $(inherited) "$PODS_CONFIGURATION_BUILD_DIR/FDFullscreenPopGesture" "$PODS_CONFIGURATION_BUILD_DIR/LCTabBarController" "$PODS_CONFIGURATION_BUILD_DIR/SDAutoLayout"
-OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/FDFullscreenPopGesture" -isystem "${PODS_ROOT}/Headers/Public/LCTabBarController" -isystem "${PODS_ROOT}/Headers/Public/SDAutoLayout"
-OTHER_LDFLAGS = $(inherited) -ObjC -l"FDFullscreenPopGesture" -l"LCTabBarController" -l"SDAutoLayout"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+OTHER_CFLAGS = $(inherited) -iquote "$PODS_CONFIGURATION_BUILD_DIR/FDFullscreenPopGesture/FDFullscreenPopGesture.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/LCTabBarController/LCTabBarController.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/SDAutoLayout/SDAutoLayout.framework/Headers"
+OTHER_LDFLAGS = $(inherited) -framework "FDFullscreenPopGesture" -framework "LCTabBarController" -framework "SDAutoLayout"
 PODS_BUILD_DIR = $BUILD_DIR
 PODS_CONFIGURATION_BUILD_DIR = $PODS_BUILD_DIR/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
 PODS_ROOT = ${SRCROOT}/Pods
