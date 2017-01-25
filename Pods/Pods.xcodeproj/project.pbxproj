@@ -1,0 +1,1189 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0008CF2B8A9BC23C44E4EDC9AE702C50 = {
+			isa = PBXBuildFile;
+			fileRef = 9D6D5377F329D5FC9A37D0697D26E842;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C93C78F6FAE0D8F1956FBFA1A16E46 = {
+			isa = PBXBuildFile;
+			fileRef = CEC22C73C1608DFA5D5D78BDCB218219;
+		};
+		1827B108068198EC7C1A1C84EB9DE232 = {
+			isa = PBXBuildFile;
+			fileRef = CEC22C73C1608DFA5D5D78BDCB218219;
+		};
+		34A9B87DB286EBEF42B29481B1031C86 = {
+			isa = PBXBuildFile;
+			fileRef = 6BEE99758431D6BB63E7535BBFED84BC;
+		};
+		4408FAA5FBDE23DDB4911DA43878F07B = {
+			isa = PBXBuildFile;
+			fileRef = C1022EC072CFFD9A4B98051C795C575F;
+		};
+		51BB560DB48D81C168E6ED4F066E4956 = {
+			isa = PBXBuildFile;
+			fileRef = 145269F9511D2D7FF46E45AC55C40AE6;
+		};
+		53A4C52262E1CAD33C3D0A2C9B6B1D91 = {
+			isa = PBXBuildFile;
+			fileRef = 580F0190BBC00DDC87618F116C4A3B0C;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		6EFB5102FC2674FD5A19058CF876B2D4 = {
+			isa = PBXBuildFile;
+			fileRef = CEC22C73C1608DFA5D5D78BDCB218219;
+		};
+		7EB0DD10FF07F928FF4C1F457259DB3A = {
+			isa = PBXBuildFile;
+			fileRef = D2700CEB194F9F62BCF0C8023D106757;
+		};
+		809E5FAFDABBC33B25EE0E2A66DC8D6E = {
+			isa = PBXBuildFile;
+			fileRef = FD456AA55016BB688A4332B694BE3DCD;
+		};
+		8530FE0678015146AD169D5E75063743 = {
+			isa = PBXBuildFile;
+			fileRef = 45A4F81C48C74E8AB356B1D960000AD7;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		9EEF4D50F6317F0062CE5E2950497AD5 = {
+			isa = PBXBuildFile;
+			fileRef = 6351D146C433028DD53E3B744DAC2248;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		AF3B17D4C13E8791B91508D57E1CFC19 = {
+			isa = PBXBuildFile;
+			fileRef = EDD37C0FC74C98986C3DE86B3023E822;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		C4A9383F7FEC12BB7C07FB2E27985298 = {
+			isa = PBXBuildFile;
+			fileRef = CEC22C73C1608DFA5D5D78BDCB218219;
+		};
+		C52681A73DBD4D3499B6603DE3E2B885 = {
+			isa = PBXBuildFile;
+			fileRef = 1184BC00E0668AC6419243B0C83C81DA;
+		};
+		C587CAA361D30A0956C87F81EF3EDA6F = {
+			isa = PBXBuildFile;
+			fileRef = F1D9459FE501C8BAA8FE0F4429296332;
+		};
+		C711E6E606B7BBABA35C09E212D5D518 = {
+			isa = PBXBuildFile;
+			fileRef = E30889346F40AB2A5958343F86842647;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		C777E74282152A5C4C0E89AF6702DE13 = {
+			isa = PBXBuildFile;
+			fileRef = 2C443EDF4EC35A34E1AAF6ADE5549EDC;
+		};
+		CD67B6376CA05C2DFEC849B48F25FFB9 = {
+			isa = PBXBuildFile;
+			fileRef = 5FFB2FF846B6212A2308D326D3C7332A;
+		};
+		CF6D8FD9A7ADE72CC448F432BCE0E89B = {
+			isa = PBXBuildFile;
+			fileRef = 8949D9A7752AF107E0F0990393A343EB;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		D9E9ED0B04FAE8CFE5E7E011FADBC7D2 = {
+			isa = PBXBuildFile;
+			fileRef = C4BE1C2B9EDBE7667B4D24A6C6ECC492;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		DA4F859D7BE2197DEC499DCD8F9EFFF4 = {
+			isa = PBXBuildFile;
+			fileRef = 9631A6CA7B5BC5F6D6269DB68B389075;
+		};
+		F13D46767A53EA1E64AA8917529BD02A = {
+			isa = PBXBuildFile;
+			fileRef = D813DAE4DBA3D138D990115D1236A489;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		FEB81E1838AF2C36400C9B7ECFBAE2EF = {
+			isa = PBXBuildFile;
+			fileRef = 729CD9DEA9D1C9FEAADDDC7514E85970;
+		};
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7C0215DD5A8081EBC17016C2F54C9993 = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E;
+			proxyType = 1;
+			remoteGlobalIDString = FAB350AF6CE986F4D785FB718EB7F0CF;
+			remoteInfo = LCTabBarController;
+		};
+		8E8FE7DC8A2AC1F622D80C690360CD9F = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E;
+			proxyType = 1;
+			remoteGlobalIDString = 94EE5B7EE6CFEF17BC72BB1F6BF94552;
+			remoteInfo = SDAutoLayout;
+		};
+		E3C50911050BB3F5AE207CD95D894D64 = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E;
+			proxyType = 1;
+			remoteGlobalIDString = 2C71DE0FB8A6E5BB6EAF9FB037D799CC;
+			remoteInfo = FDFullscreenPopGesture;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0CD534A7CA1C4BCD03BB0CDB54A47B92 = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			name = libFDFullscreenPopGesture.a;
+			path = libFDFullscreenPopGesture.a;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		1184BC00E0668AC6419243B0C83C81DA = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = LCTabBarController.m;
+			path = LCTabBarController/LCTabBarController.m;
+			sourceTree = "<group>";
+		};
+		145269F9511D2D7FF46E45AC55C40AE6 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "FDFullscreenPopGesture-dummy.m";
+			sourceTree = "<group>";
+		};
+		1ECF455CBF9739662CD3A7052C43FB94 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.script.sh;
+			path = "Pods-YZRapid-resources.sh";
+			sourceTree = "<group>";
+		};
+		28D5327E928D2FAB9324A966A610819E = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = FDFullscreenPopGesture.xcconfig;
+			sourceTree = "<group>";
+		};
+		2C443EDF4EC35A34E1AAF6ADE5549EDC = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "Pods-YZRapid-dummy.m";
+			sourceTree = "<group>";
+		};
+		42421972CA4098C3D2C40F15D350E336 = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			name = libLCTabBarController.a;
+			path = libLCTabBarController.a;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		45A4F81C48C74E8AB356B1D960000AD7 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = LCTabBarCONST.h;
+			path = LCTabBarController/LCTabBarCONST.h;
+			sourceTree = "<group>";
+		};
+		55B3EC8186D917C9E1C776A20990F30F = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = SDAutoLayout.xcconfig;
+			sourceTree = "<group>";
+		};
+		580F0190BBC00DDC87618F116C4A3B0C = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = LCTabBarItem.h;
+			path = LCTabBarController/LCTabBarItem.h;
+			sourceTree = "<group>";
+		};
+		5FFB2FF846B6212A2308D326D3C7332A = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = LCTabBarItem.m;
+			path = LCTabBarController/LCTabBarItem.m;
+			sourceTree = "<group>";
+		};
+		6351D146C433028DD53E3B744DAC2248 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UINavigationController+FDFullscreenPopGesture.h";
+			path = "FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.h";
+			sourceTree = "<group>";
+		};
+		685786A37D349AA0F3B71DD6BE6B262B = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			name = "libPods-YZRapid.a";
+			path = "libPods-YZRapid.a";
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		6BEE99758431D6BB63E7535BBFED84BC = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UITableView+SDAutoTableViewCellHeight.m";
+			path = "SDAutoLayoutDemo/SDAutoLayout/UITableView+SDAutoTableViewCellHeight.m";
+			sourceTree = "<group>";
+		};
+		729CD9DEA9D1C9FEAADDDC7514E85970 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = LCTabBar.m;
+			path = LCTabBarController/LCTabBar.m;
+			sourceTree = "<group>";
+		};
+		7FEAE87B1C6837F5D5AA7646604F6ADF = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.plist.xml;
+			path = "Pods-YZRapid-acknowledgements.plist";
+			sourceTree = "<group>";
+		};
+		827D6C7D77031BF1A3A34E80461DD070 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-YZRapid.release.xcconfig";
+			sourceTree = "<group>";
+		};
+		8949D9A7752AF107E0F0990393A343EB = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = SDAutoLayout.h;
+			path = SDAutoLayoutDemo/SDAutoLayout/SDAutoLayout.h;
+			sourceTree = "<group>";
+		};
+		8D150A253A71E49920199F9E61966572 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.script.sh;
+			path = "Pods-YZRapid-frameworks.sh";
+			sourceTree = "<group>";
+		};
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 = {
+			isa = PBXFileReference;
+			explicitFileType = text.script.ruby;
+			includeInIndex = 1;
+			lastKnownFileType = text;
+			name = Podfile;
+			path = ../Podfile;
+			sourceTree = SOURCE_ROOT;
+			xcLanguageSpecificationIdentifier = xcode.lang.ruby;
+		};
+		9458E5E5D415D282F6947F748A291D8E = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = LCTabBarController.xcconfig;
+			sourceTree = "<group>";
+		};
+		9631A6CA7B5BC5F6D6269DB68B389075 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIView+SDAutoLayout.m";
+			path = "SDAutoLayoutDemo/SDAutoLayout/UIView+SDAutoLayout.m";
+			sourceTree = "<group>";
+		};
+		9D6D5377F329D5FC9A37D0697D26E842 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = LCTabBarBadge.h;
+			path = LCTabBarController/LCTabBarBadge.h;
+			sourceTree = "<group>";
+		};
+		9DDD799E390E5F13BB5F5F15C531D094 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			path = "LCTabBarController-prefix.pch";
+			sourceTree = "<group>";
+		};
+		B088BB35239986A8FD14EAA29C984C7B = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-YZRapid.debug.xcconfig";
+			sourceTree = "<group>";
+		};
+		B2D9E078BD70293F5383DBB8E07F728D = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			path = "FDFullscreenPopGesture-prefix.pch";
+			sourceTree = "<group>";
+		};
+		C1022EC072CFFD9A4B98051C795C575F = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "LCTabBarController-dummy.m";
+			sourceTree = "<group>";
+		};
+		C244180DBD3E06A1FAFF06A4DE0A2FCB = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text;
+			path = "Pods-YZRapid-acknowledgements.markdown";
+			sourceTree = "<group>";
+		};
+		C4BE1C2B9EDBE7667B4D24A6C6ECC492 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = LCTabBar.h;
+			path = LCTabBarController/LCTabBar.h;
+			sourceTree = "<group>";
+		};
+		CEC22C73C1608DFA5D5D78BDCB218219 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Foundation.framework;
+			path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework;
+			sourceTree = DEVELOPER_DIR;
+		};
+		CF1DDA0F152294A3FFCE708C0F75DBD9 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			path = "SDAutoLayout-prefix.pch";
+			sourceTree = "<group>";
+		};
+		D2700CEB194F9F62BCF0C8023D106757 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UINavigationController+FDFullscreenPopGesture.m";
+			path = "FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.m";
+			sourceTree = "<group>";
+		};
+		D813DAE4DBA3D138D990115D1236A489 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UITableView+SDAutoTableViewCellHeight.h";
+			path = "SDAutoLayoutDemo/SDAutoLayout/UITableView+SDAutoTableViewCellHeight.h";
+			sourceTree = "<group>";
+		};
+		DC0506E8C05926919D16684BBF3CF9D8 = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			name = libSDAutoLayout.a;
+			path = libSDAutoLayout.a;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		E30889346F40AB2A5958343F86842647 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = LCTabBarController.h;
+			path = LCTabBarController/LCTabBarController.h;
+			sourceTree = "<group>";
+		};
+		EDD37C0FC74C98986C3DE86B3023E822 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIView+SDAutoLayout.h";
+			path = "SDAutoLayoutDemo/SDAutoLayout/UIView+SDAutoLayout.h";
+			sourceTree = "<group>";
+		};
+		F1D9459FE501C8BAA8FE0F4429296332 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = LCTabBarBadge.m;
+			path = LCTabBarController/LCTabBarBadge.m;
+			sourceTree = "<group>";
+		};
+		F890DC76BA528F8AF274B3D3D898EB0F = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = "wrapper.plug-in";
+			name = LCTabBarController.bundle;
+			path = LCTabBarController/LCTabBarController.bundle;
+			sourceTree = "<group>";
+		};
+		FD456AA55016BB688A4332B694BE3DCD = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "SDAutoLayout-dummy.m";
+			sourceTree = "<group>";
+		};
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		022D2A080A55BDD436B6EDBFA429EF20 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1827B108068198EC7C1A1C84EB9DE232,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6A13B071CC6D0AFB43F0359A1929306A = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07C93C78F6FAE0D8F1956FBFA1A16E46,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		73D8F9C6F71A380FDE8089945ADD9AD9 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6EFB5102FC2674FD5A19058CF876B2D4,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BF277CFF3871600623A9BD3DD9917447 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4A9383F7FEC12BB7C07FB2E27985298,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2C28397F0CE7AD62E05676936A98B3A1 = {
+			isa = PBXGroup;
+			children = (
+				C4BE1C2B9EDBE7667B4D24A6C6ECC492,
+				729CD9DEA9D1C9FEAADDDC7514E85970,
+				9D6D5377F329D5FC9A37D0697D26E842,
+				F1D9459FE501C8BAA8FE0F4429296332,
+				45A4F81C48C74E8AB356B1D960000AD7,
+				E30889346F40AB2A5958343F86842647,
+				1184BC00E0668AC6419243B0C83C81DA,
+				580F0190BBC00DDC87618F116C4A3B0C,
+				5FFB2FF846B6212A2308D326D3C7332A,
+				6A3E6DBF6250C42C3B1C0257A542483A,
+				D87E43F7DD9376016CEC2F1E5595F903,
+			);
+			name = LCTabBarController;
+			path = LCTabBarController;
+			sourceTree = "<group>";
+		};
+		3DCAB2B7CDE207B3958B6CB957FCC758 = {
+			isa = PBXGroup;
+			children = (
+				CEC22C73C1608DFA5D5D78BDCB218219,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		5FEE9487FF04BA61BA98FE7ED450B5A2 = {
+			isa = PBXGroup;
+			children = (
+				55B3EC8186D917C9E1C776A20990F30F,
+				FD456AA55016BB688A4332B694BE3DCD,
+				CF1DDA0F152294A3FFCE708C0F75DBD9,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/SDAutoLayout";
+			sourceTree = "<group>";
+		};
+		6A3E6DBF6250C42C3B1C0257A542483A = {
+			isa = PBXGroup;
+			children = (
+				F890DC76BA528F8AF274B3D3D898EB0F,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC,
+				C1044CE3CEFFC2533DD5ED09813E3C9D,
+				FAE8C60D81DE9AF1C67DF008400E7E2F,
+				907C770AC71D12332563B858386A9956,
+			);
+			sourceTree = "<group>";
+		};
+		8EC3EFE06B8ACBCFB183122EAF98774A = {
+			isa = PBXGroup;
+			children = (
+				8949D9A7752AF107E0F0990393A343EB,
+				D813DAE4DBA3D138D990115D1236A489,
+				6BEE99758431D6BB63E7535BBFED84BC,
+				EDD37C0FC74C98986C3DE86B3023E822,
+				9631A6CA7B5BC5F6D6269DB68B389075,
+				5FEE9487FF04BA61BA98FE7ED450B5A2,
+			);
+			name = SDAutoLayout;
+			path = SDAutoLayout;
+			sourceTree = "<group>";
+		};
+		907C770AC71D12332563B858386A9956 = {
+			isa = PBXGroup;
+			children = (
+				BF6515AE6E9A409E5D6AA449532405C7,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC = {
+			isa = PBXGroup;
+			children = (
+				3DCAB2B7CDE207B3958B6CB957FCC758,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BF6515AE6E9A409E5D6AA449532405C7 = {
+			isa = PBXGroup;
+			children = (
+				C244180DBD3E06A1FAFF06A4DE0A2FCB,
+				7FEAE87B1C6837F5D5AA7646604F6ADF,
+				2C443EDF4EC35A34E1AAF6ADE5549EDC,
+				8D150A253A71E49920199F9E61966572,
+				1ECF455CBF9739662CD3A7052C43FB94,
+				B088BB35239986A8FD14EAA29C984C7B,
+				827D6C7D77031BF1A3A34E80461DD070,
+			);
+			name = "Pods-YZRapid";
+			path = "Target Support Files/Pods-YZRapid";
+			sourceTree = "<group>";
+		};
+		C1044CE3CEFFC2533DD5ED09813E3C9D = {
+			isa = PBXGroup;
+			children = (
+				D079AF33FD85A205F8AC34407FAECE28,
+				2C28397F0CE7AD62E05676936A98B3A1,
+				8EC3EFE06B8ACBCFB183122EAF98774A,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		D079AF33FD85A205F8AC34407FAECE28 = {
+			isa = PBXGroup;
+			children = (
+				6351D146C433028DD53E3B744DAC2248,
+				D2700CEB194F9F62BCF0C8023D106757,
+				FB632FE2A1126DDBDC822E74021EE612,
+			);
+			name = FDFullscreenPopGesture;
+			path = FDFullscreenPopGesture;
+			sourceTree = "<group>";
+		};
+		D87E43F7DD9376016CEC2F1E5595F903 = {
+			isa = PBXGroup;
+			children = (
+				9458E5E5D415D282F6947F748A291D8E,
+				C1022EC072CFFD9A4B98051C795C575F,
+				9DDD799E390E5F13BB5F5F15C531D094,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/LCTabBarController";
+			sourceTree = "<group>";
+		};
+		FAE8C60D81DE9AF1C67DF008400E7E2F = {
+			isa = PBXGroup;
+			children = (
+				0CD534A7CA1C4BCD03BB0CDB54A47B92,
+				42421972CA4098C3D2C40F15D350E336,
+				685786A37D349AA0F3B71DD6BE6B262B,
+				DC0506E8C05926919D16684BBF3CF9D8,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FB632FE2A1126DDBDC822E74021EE612 = {
+			isa = PBXGroup;
+			children = (
+				28D5327E928D2FAB9324A966A610819E,
+				145269F9511D2D7FF46E45AC55C40AE6,
+				B2D9E078BD70293F5383DBB8E07F728D,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/FDFullscreenPopGesture";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		11660A4AA06371948BA52E228E12D47F = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9EEF4D50F6317F0062CE5E2950497AD5,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CF2D30E68754F6E88788212550953F33 = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9E9ED0B04FAE8CFE5E7E011FADBC7D2,
+				0008CF2B8A9BC23C44E4EDC9AE702C50,
+				8530FE0678015146AD169D5E75063743,
+				C711E6E606B7BBABA35C09E212D5D518,
+				53A4C52262E1CAD33C3D0A2C9B6B1D91,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F0398D7FEA816184B6D6B6749AB5539A = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF6D8FD9A7ADE72CC448F432BCE0E89B,
+				F13D46767A53EA1E64AA8917529BD02A,
+				AF3B17D4C13E8791B91508D57E1CFC19,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		2C71DE0FB8A6E5BB6EAF9FB037D799CC = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DEB8E05E380A5AFADB7A5465E8055C85;
+			buildPhases = (
+				0FA965BFF347F0200F43561762BB0754,
+				BF277CFF3871600623A9BD3DD9917447,
+				11660A4AA06371948BA52E228E12D47F,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FDFullscreenPopGesture;
+			productName = FDFullscreenPopGesture;
+			productReference = 0CD534A7CA1C4BCD03BB0CDB54A47B92;
+			productType = "com.apple.product-type.library.static";
+		};
+		6876C98B3267271C5721DDFDFBD8A712 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DC39D301695B4833BA048E0D7EED00C5;
+			buildPhases = (
+				9047A9CE1558268A4B3057C7B46F15EF,
+				6A13B071CC6D0AFB43F0359A1929306A,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4A5B6ACB2246B4829F8478F4E3A57C09,
+				8761EA9496B774B5A98CDF88044D502B,
+				676EB01D879402F3EB8DC1EB56F5FF88,
+			);
+			name = "Pods-YZRapid";
+			productName = "Pods-YZRapid";
+			productReference = 685786A37D349AA0F3B71DD6BE6B262B;
+			productType = "com.apple.product-type.library.static";
+		};
+		94EE5B7EE6CFEF17BC72BB1F6BF94552 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A7BBA6BEA160D988E7207488D5FE8969;
+			buildPhases = (
+				9605C8259AAC0C37AB5DBBB4005FECB3,
+				022D2A080A55BDD436B6EDBFA429EF20,
+				F0398D7FEA816184B6D6B6749AB5539A,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SDAutoLayout;
+			productName = SDAutoLayout;
+			productReference = DC0506E8C05926919D16684BBF3CF9D8;
+			productType = "com.apple.product-type.library.static";
+		};
+		FAB350AF6CE986F4D785FB718EB7F0CF = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D1CD1F29FB828BBA3DF49BB4C0B9C3D7;
+			buildPhases = (
+				BC83525C1A5C2B93CD9C083CE9EDE76B,
+				73D8F9C6F71A380FDE8089945ADD9AD9,
+				CF2D30E68754F6E88788212550953F33,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LCTabBarController;
+			productName = LCTabBarController;
+			productReference = 42421972CA4098C3D2C40F15D350E336;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = FAE8C60D81DE9AF1C67DF008400E7E2F;
+			projectDirPath = "";
+			projectReferences = (
+			);
+			projectRoot = "";
+			targets = (
+				2C71DE0FB8A6E5BB6EAF9FB037D799CC,
+				FAB350AF6CE986F4D785FB718EB7F0CF,
+				6876C98B3267271C5721DDFDFBD8A712,
+				94EE5B7EE6CFEF17BC72BB1F6BF94552,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0FA965BFF347F0200F43561762BB0754 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				51BB560DB48D81C168E6ED4F066E4956,
+				7EB0DD10FF07F928FF4C1F457259DB3A,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9047A9CE1558268A4B3057C7B46F15EF = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C777E74282152A5C4C0E89AF6702DE13,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9605C8259AAC0C37AB5DBBB4005FECB3 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				809E5FAFDABBC33B25EE0E2A66DC8D6E,
+				34A9B87DB286EBEF42B29481B1031C86,
+				DA4F859D7BE2197DEC499DCD8F9EFFF4,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BC83525C1A5C2B93CD9C083CE9EDE76B = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FEB81E1838AF2C36400C9B7ECFBAE2EF,
+				C587CAA361D30A0956C87F81EF3EDA6F,
+				4408FAA5FBDE23DDB4911DA43878F07B,
+				C52681A73DBD4D3499B6603DE3E2B885,
+				CD67B6376CA05C2DFEC849B48F25FFB9,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4A5B6ACB2246B4829F8478F4E3A57C09 = {
+			isa = PBXTargetDependency;
+			name = FDFullscreenPopGesture;
+			target = 2C71DE0FB8A6E5BB6EAF9FB037D799CC;
+			targetProxy = E3C50911050BB3F5AE207CD95D894D64;
+		};
+		676EB01D879402F3EB8DC1EB56F5FF88 = {
+			isa = PBXTargetDependency;
+			name = SDAutoLayout;
+			target = 94EE5B7EE6CFEF17BC72BB1F6BF94552;
+			targetProxy = 8E8FE7DC8A2AC1F622D80C690360CD9F;
+		};
+		8761EA9496B774B5A98CDF88044D502B = {
+			isa = PBXTargetDependency;
+			name = LCTabBarController;
+			target = FAB350AF6CE986F4D785FB718EB7F0CF;
+			targetProxy = 7C0215DD5A8081EBC17016C2F54C9993;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		015A368F878AC3E2CEAE21DDE8026304 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		0C81BDB71538B7D2176CCB8E6197A45C = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 55B3EC8186D917C9E1C776A20990F30F;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/SDAutoLayout/SDAutoLayout-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		1A513CCC7D3936DA799F6184372A6E7D = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 28D5327E928D2FAB9324A966A610819E;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/FDFullscreenPopGesture/FDFullscreenPopGesture-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		44CDBB6D11DE06DB64D6268622BDC47E = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5EF72FF25541CE0DF333533BC582DF0E = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B088BB35239986A8FD14EAA29C984C7B;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		69D074BE8C8EABDCF1361DA6105F7566 = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9458E5E5D415D282F6947F748A291D8E;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/LCTabBarController/LCTabBarController-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		754A46ED30182A788A989901720C523A = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 55B3EC8186D917C9E1C776A20990F30F;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/SDAutoLayout/SDAutoLayout-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		9086A7D3E578160A333B2021BC94490F = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 827D6C7D77031BF1A3A34E80461DD070;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		DDF39906B61AAEEC295B13192DB95CCE = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9458E5E5D415D282F6947F748A291D8E;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/LCTabBarController/LCTabBarController-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		F5D4FBC99DDC9AA5021AA3D2564A44AE = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 28D5327E928D2FAB9324A966A610819E;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/FDFullscreenPopGesture/FDFullscreenPopGesture-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				015A368F878AC3E2CEAE21DDE8026304,
+				44CDBB6D11DE06DB64D6268622BDC47E,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A7BBA6BEA160D988E7207488D5FE8969 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0C81BDB71538B7D2176CCB8E6197A45C,
+				754A46ED30182A788A989901720C523A,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D1CD1F29FB828BBA3DF49BB4C0B9C3D7 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				69D074BE8C8EABDCF1361DA6105F7566,
+				DDF39906B61AAEEC295B13192DB95CCE,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DC39D301695B4833BA048E0D7EED00C5 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5EF72FF25541CE0DF333533BC582DF0E,
+				9086A7D3E578160A333B2021BC94490F,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DEB8E05E380A5AFADB7A5465E8055C85 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F5D4FBC99DDC9AA5021AA3D2564A44AE,
+				1A513CCC7D3936DA799F6184372A6E7D,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E;
+}
